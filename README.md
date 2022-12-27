@@ -1,13 +1,7 @@
-### Hi there 👋
+### Hey, I'm Khawaja Zahira! ✌️
 
-<!--
-**Zahira-Khawaja/Zahira-Khawaja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
+➺ I'm a MERN Stack Developer.
+➺ I'm currently exploring new things in technology.
+➺ My goal is to contribute to Open Source and learn through contributions.
+➺ Connect with me:
+ <img src="https://www.linkedin.com/in/khawaja-zahira-866797211/" >
