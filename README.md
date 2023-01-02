@@ -2,7 +2,6 @@
 
 <p>➺ I'm a MERN Stack Developer.</p>
 <p>➺ I'm currently exploring new things in technology.</p>
-<p>➺ My goal is to contribute to Open Source and learn through contributions.</p>
 <div>
 <p>➺ Skills:</p>
  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
