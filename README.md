@@ -1,6 +1,6 @@
 ### Hey, I'm Khawaja Zahira! ✌️
 
-<p>➺ I'm a MERN Stack Developer.</p>
+<p>➺ I'm a FULL Stack Developer.</p>
 <p>➺ I'm currently exploring new things in technology.</p>
 <div>
 <p>➺ Skills:</p>
